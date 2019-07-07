@@ -1,4 +1,6 @@
 
+Code challenge
+
 Tree structure of subjects: make a selector to show and interact with subjects from hierarchical subject list (subjects.json)
 
 For installation & running the app best use: Yarn - Dependency Management
